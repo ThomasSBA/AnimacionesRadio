@@ -4,6 +4,8 @@ Este recurso permite ejecutar animaciones personalizadas al hablar por radio, in
 
 Pronto tendra soporte para otras Frameworks.
 
+![](https://media.discordapp.net/attachments/1239443315556876329/1392519934592159877/animradio.png?ex=686fd4c0&is=686e8340&hm=e269d7e3783f23eef2282dde5c7690fa384b98a22db59a7c40dab7e4bf13e69c&=&format=webp&quality=lossless&width=908&height=511)
+
 <h2>👾 Discord</h2>
 <h3>thomhp</h3>
 <h4><a href="https://discord.gg/ufSmtdX6AZ">Comunidad Discord</a></h4>
