@@ -1,10 +1,10 @@
-<h2>📋 Sistema de Estilo de Animaciones de Radio</h2>
+<h2>📻 Sistema de Estilo de Animaciones de Radio</h2>
 
-Este recurso permite ejecutar animaciones personalizadas al hablar por radio, integrando RPEmotes Reborn con detección de voz vía PMA-Voice. El jugador puede seleccionar su animación mediante un menú visual con qb-menu, accesible por tecla o comando. El script gestiona automáticamente la activación y cancelación de la animación según el estado de la radio, asegurando compatibilidad total y sin interferencias de otros scripts.
+Este recurso permite ejecutar animaciones personalizadas al hablar por radio, integrando detección de voz vía `pma-voice`. El jugador puede seleccionar su animación mediante un menú visual con `qb-menu`, accesible por tecla o comando. El script gestiona automáticamente la activación y cancelación de la animación según el estado de la radio, asegurando compatibilidad total y sin interferencias de otros scripts.
 
 Pronto tendra soporte para otras Frameworks.
 
-<h2>📋 Discord
+<h2>👾 Discord
 <h3>thomhp</h3>
 <h4><a href="https://discord.gg/ufSmtdX6AZ">Comunidad Discord</a></h4>
 
