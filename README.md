@@ -8,7 +8,7 @@ Pronto tendra soporte para otras Frameworks.
 
 <h2>👾 Discord</h2>
 <h3>thomhp</h3>
-<h4><a href="https://discord.gg/ufSmtdX6AZ">Comunidad Discord</a></h4>
+<h4><a href="https://discord.gg/MDeh6TEbRa">Comunidad Discord</a></h4>
 
 
 <h2>📥 Instalación</h2>
